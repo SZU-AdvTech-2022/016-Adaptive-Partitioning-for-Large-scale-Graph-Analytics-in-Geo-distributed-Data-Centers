@@ -1,0 +1,8 @@
+@inproceedings{REPO-016,
+    author = "Zhou, Amelie Chi and Luo, Juanyun and Qiu, Ruibo and Tan, Haobin and He, Bingsheng and Mao, Rui",
+    booktitle = "2022 IEEE 38th International Conference on Data Engineering (ICDE)",
+    organization = "IEEE",
+    pages = "2818--2830",
+    title = "{Adaptive Partitioning for Large-Scale Graph Analytics in Geo-Distributed Data Centers}",
+    year = "2022"
+}
